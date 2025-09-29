@@ -1,1 +1,0 @@
-My favorite author is {{famous person}} who wrote a book about {{color}} {{fruit}} {{furniture}}. The story takes place in a {{adjective}} {{place}} where the main character rides a {{vehicle}} and eats {{food}} every morning.

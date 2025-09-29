@@ -1,0 +1,1 @@
+My pet {{animal}} is very {{adjective}}. Every morning it {{verb}} around the {{room}} and then {{verb}} on my {{furniture}}. For breakfast, my pet loves to eat {{food}} and {{liquid}}. Sometimes it gets so {{emotion}} that it {{verb}} all over the {{place}}. The funniest thing my pet does is {{verb}} while {{verb ending in -ing}}. I love my {{adjective}} pet!
